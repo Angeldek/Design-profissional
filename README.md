@@ -26,10 +26,12 @@ cd design-profissional-ads/projetos
 - Abra os arquivos no editor ou ferramenta indicada.
 
 👨‍🏫 Professor(a)
-Nome do(a) professor(a) responsável pela disciplina.
+Kerlla de Souza Luz
+Leticia Toledo Maia Zoby
 
-👩‍💻 Integrantes
-- Nome do aluno 1
-- Nome do aluno 2
-- Nome do aluno 3
-(adicione conforme necessário)
+👤 Autor
+
+Luisângel Silva
+Curso: Análise e Desenvolvimento de Sistemas – 1º semestre
+
+Instituição: UDF
