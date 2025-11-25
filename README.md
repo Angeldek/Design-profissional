@@ -20,7 +20,7 @@ O objetivo é aplicar conceitos de design voltados para a área de tecnologia, c
 🚀 Como utilizar este repositório
 
 - Clone o repositório:
-git clone https://github.com/seu-usuario/design-profissional-ads.git
+git clone [https://github.com/seu-usuario/design-profissional-ads.git](https://github.com/Angeldek)
 - Navegue até a pasta desejada:
 cd design-profissional-ads/projetos
 - Abra os arquivos no editor ou ferramenta indicada.
